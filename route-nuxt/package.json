@@ -1,0 +1,17 @@
+{
+  "name": "route-nuxt",
+  "version": "1.0.0",
+  "description": "My super-duper Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.12.2"
+  },
+  "devDependencies": {}
+}
